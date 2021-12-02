@@ -1,0 +1,31 @@
+NAME,KANWIL,DIVISI,USERNAME
+KANWIL SEKJEN,yes,Administrasi,kanwil_sekjen
+BADIKLAT KUMHAM Kepri,no,Administrasi,badiklat_kepri
+DIVISI Pemasyarakatan,yes,Pemasyarakatan,div_pas
+LAPAS Tanjungpinang,no,Pemasyarakatan,lapas_tpi
+LAPAS Narkotika Tanjungpinang,no,Pemasyarakatan,lapas_narkotika
+LAPAS Batam,no,Pemasyarakatan,lapas_btm
+RUTAN Tanjungpinang,no,Pemasyarakatan,rutan_tpi
+LPKA Batam,no,Pemasyarakatan,lpka_btm
+LPP Batam,no,Pemasyarakatan,lpp_btm
+RUTAN Batam,no,Pemasyarakatan,rutan_btm
+RUTAN Tanjung Balai Karimun,no,Pemasyarakatan,rutan_tbk
+BAPAS Tanjungpinang,no,Pemasyarakatan,bapas_tpi
+LAPAS Dabo Singkep,no,Pemasyarakatan,lapas_dabo
+RUPBASAN Tanjungpinang,no,Pemasyarakatan,rupbasan_tpi
+DIVISI Keimigrasian,yes,Keimigrasian,div_im
+KANIM Batam,no,Keimigrasian,kanim_btm
+RUDENIM Pusat Tanjungpinang,no,Keimigrasian,rudenim_tpi
+KANIM Tanjungpinang,no,Keimigrasian,kanim_tpi
+KANIM Tanjung Uban,no,Keimigrasian,kanim_uban
+KANIM Tanjung Balai Karimun,no,Keimigrasian,kanim_tbk
+KANIM Belakang Padang,no,Keimigrasian,kanim_blp
+KANIM Ranai,no,Keimigrasian,kanim_ranai
+KANIM Tarempa,no,Keimigrasian,kanim_tarempa
+KANIM Dabo Singkep,no,Keimigrasian,kanim_dabo
+KANWIL AHU,yes,yankumham,kanwil_ahu
+KANWIL KI,yes,yankumham,kanwil_ki
+KANWIL PP,yes,yankumham,kanwil_pp
+KANWIL HAM,yes,yankumham,kanwil_ham
+KANWIL BPHN,yes,yankumham,kanwil_bphn
+KANWIL BALITBANG,yes,yankumham,kanwil_balitbang
